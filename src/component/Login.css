@@ -1,0 +1,22 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-color: #f3f3f3;
+}
+
+.login-container > h1 {
+  font-weight: 800;
+  margin-bottom: 40px;
+}
+
+.login-container > form > h5 {
+  margin-bottom: 5px;
+}
+
+.login-container > form > input {
+  background-color: white;
+  margin-bottom: 10px;
+  width: 98%;
+}
